@@ -29,3 +29,18 @@ The analysis uses the **Healthcare Provider Fraud Detection Analysis** dataset, 
    - **XGBoost:** Achieved the highest predictive power for complex patterns.
    - **Logistic Regression:** Used for baseline performance and interpretability.
 4. **Evaluation:** Focused on **Recall** and **AUC-ROC** to ensure maximum detection of fraudulent actors.
+
+## Team Members
+
+This project was developed as a group assignment for the **Regression Analysis** course.
+
+| Name | ID | Primary Contribution |
+| :--- | :--- | :--- |
+| **Zhaniya Stamshalova** | 230183073 | Data Cleaning & Preprocessing |
+| **Orynbassar Nurila** | 230183137 | Lead Modeling & Threshold Optimization |
+| **Kosbay Assylzhan** | 230183066 | Streamlit Application Building |
+| **Duman Madina** | 230183070 | Feature Engineering & Visualization |
+| **Bolatkazy Togzhan** | 230183084 | Documentation & Exploratory Data Analysis (EDA) |
+
+---
+*Developed at Suleyman Demirel University (SDU).*
